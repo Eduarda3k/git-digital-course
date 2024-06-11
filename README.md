@@ -1,1 +1,3 @@
-# git-digital-course
+# Curso digital: GIT
+
+## Salvando alterações no GIT
